@@ -1,73 +1,96 @@
-# Welcome to your Lovable project
+# 🚀 Aliança AZ
 
-## Project info
+<div align="center">
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+![GitHub stars](https://img.shields.io/github/stars/dev-kronix/Site-betta?style=for-the-badge&logo=github&color=FFD700)
+![GitHub watchers](https://img.shields.io/github/watchers/dev-kronix/Site-betta?style=for-the-badge&logo=github&color=00CED1)
+![GitHub issues](https://img.shields.io/github/issues/dev-kronix/Site-betta?style=for-the-badge&logo=github&color=FF6B6B)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-kronix/Site-betta?style=for-the-badge&logo=github&color=4ECDC4)
 
-## How can I edit this code?
+![Contributors](https://img.shields.io/github/contributors/dev-kronix/Site-betta?style=for-the-badge&logo=github&color=95E1D3)
+![Commits](https://img.shields.io/github/commit-activity/m/dev-kronix/Site-betta?style=for-the-badge&logo=github&color=A8E6CF)
+![License](https://img.shields.io/github/license/dev-kronix/Site-betta?style=for-the-badge&color=FFD3B6)
+![Last commit](https://img.shields.io/github/last-commit/dev-kronix/Site-betta?style=for-the-badge&logo=github&color=FFAAA5)
 
-There are several ways of editing your application.
+</div>
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 📋 Sobre o Projeto
 
-Changes made via Lovable will be committed automatically to this repo.
+**Aliança AZ** é uma plataforma moderna e inovadora desenvolvida com tecnologias de ponta para proporcionar a melhor experiência ao usuário.
 
-**Use your preferred IDE**
+## 🛠️ Tecnologias Utilizadas
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Vite** - Build tool rápido e eficiente
+- **TypeScript** - Tipagem estática para JavaScript
+- **React** - Biblioteca UI declarativa
+- **shadcn-ui** - Componentes reutilizáveis
+- **Tailwind CSS** - Utilidades CSS modernas
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Quick Start
 
-Follow these steps:
+### Pré-requisitos
+- Node.js & npm instalados ([instalar com nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
+
+### Instalação
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Clone o repositório
+git clone https://github.com/dev-kronix/Site-betta.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Entre no diretório
+cd Site-betta
 
-# Step 3: Install the necessary dependencies.
+# Instale as dependências
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Inicie o servidor de desenvolvimento
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 📝 Editar o Código
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Opção 1: IDE Local
+Clone o repositório e use sua IDE favorita para editar os arquivos.
 
-**Use GitHub Codespaces**
+### Opção 2: GitHub Web Editor
+- Navegue até o arquivo desejado
+- Clique no ícone de lápis (Edit) no canto superior direito
+- Faça suas alterações e commit
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Opção 3: GitHub Codespaces
+- Na página principal do repositório, clique em "Code" (botão verde)
+- Selecione a aba "Codespaces"
+- Clique em "New codespace"
+- Edite os arquivos e faça commit das mudanças
 
-## What technologies are used for this project?
+## 🌍 Deploy
 
-This project is built with:
+O projeto está pronto para ser deployado em qualquer plataforma que suporte Node.js/React.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📊 Estatísticas
 
-## How can I deploy this project?
+<div align="center">
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+| Métrica | Status |
+|---------|--------|
+| **Stars** | ![Stars](https://img.shields.io/github/stars/dev-kronix/Site-betta?style=flat-square) |
+| **Forks** | ![Forks](https://img.shields.io/github/forks/dev-kronix/Site-betta?style=flat-square) |
+| **Issues Abertas** | ![Issues](https://img.shields.io/github/issues/dev-kronix/Site-betta?style=flat-square) |
+| **Pull Requests** | ![PRs](https://img.shields.io/github/issues-pr/dev-kronix/Site-betta?style=flat-square) |
+| **Contributors** | ![Contributors](https://img.shields.io/github/contributors/dev-kronix/Site-betta?style=flat-square) |
 
-## Can I connect a custom domain to my Lovable project?
+</div>
 
-Yes, you can!
+## 📄 Licença
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+<div align="center">
+
+**Desenvolvido com ❤️ por Aliança AZ**
+
+</div>
