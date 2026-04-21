@@ -7,7 +7,7 @@ import MouseFollower from "@/components/MouseFollower";
 import { useSiteData } from "@/contexts/SiteDataContext";
 import { getIconComponent } from "@/lib/icons";
 
-const categories = ["Todos", "Grupos", "Redes Sociais", "Bots", "Lojas" "API's", "Entretenimento", "Outros"];
+const categories = ["Todos", "Grupos", "Redes Sociais", "Bots", "Lojas", "API's", "Entretenimento", "Outros"];
 
 const LinksPage = () => {
   const { data } = useSiteData();
