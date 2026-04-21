@@ -48,7 +48,7 @@ const LinksPage = () => {
           </Link>
           
           <h1 className="font-display text-lg font-bold uppercase tracking-[0.2em] text-bone">
-            <span className="text-primary">UNHOLY</span> LINKS
+            <span className="text-primary">SARA</span> LINKS
           </h1>
           
           <div className="w-16" /> {/* Spacer */}
