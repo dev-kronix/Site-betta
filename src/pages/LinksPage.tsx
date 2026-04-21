@@ -7,7 +7,7 @@ import MouseFollower from "@/components/MouseFollower";
 import { useSiteData } from "@/contexts/SiteDataContext";
 import { getIconComponent } from "@/lib/icons";
 
-const categories = ["Todos", "Grupos", "Redes Sociais", "Entretenimento", "Outros"];
+const categories = ["Todos", "Grupos", "Redes Sociais", "Bots", "Lojas" "API's", "Entretenimento", "Outros"];
 
 const LinksPage = () => {
   const { data } = useSiteData();
@@ -163,7 +163,7 @@ const LinksPage = () => {
       {/* Footer */}
       <footer className="relative z-20 border-t border-primary/20 py-8 text-center">
         <p className="font-mono text-xs text-ash/50">
-          UNHOLY ALIANÇA © {new Date().getFullYear()}
+          SARA API © {new Date().getFullYear()}
         </p>
       </footer>
     </div>
