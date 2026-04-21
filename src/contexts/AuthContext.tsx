@@ -10,8 +10,7 @@ const AuthContext = createContext<AuthContextType | null>(null);
 
 // Credenciais hardcoded
 const VALID_CREDENTIALS = [
-  { username: "xulixo", password: "femboypanelagi" },
-  { username: "admazlixo", password: "xulinthebest" },
+  { username: "Thyago", password: "sara1104" }
 ];
 export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
